@@ -1,4 +1,4 @@
-import  database  from "/home/vitor/code/clone-tabnews/infra/database.js";
+import  database  from "../../../../infra/database.js";
 
 async function status(request, response){
 
